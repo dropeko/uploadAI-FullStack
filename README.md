@@ -33,7 +33,7 @@ Para configurar o ambiente de desenvolvimento e execução, siga os passos abaix
 
    ```bash
    git clone https://github.com/dropeko/uploadAI-FullStack.git
-   cd seu-projeto
+   cd uploadAI-FullStack
 
 2. Instale as dependências do frontend e backend.
   ### Dentro da pasta 'frontend'
