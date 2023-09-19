@@ -37,12 +37,10 @@ Para configurar o ambiente de desenvolvimento e execução, siga os passos abaix
 
 2. Instale as dependências do frontend e backend.
   ### Dentro da pasta 'frontend'
-    ```bash
     cd frontend
     npm install
 
   ### Dentro da pasta 'backend'
-    ```bash
     cd ../backend
     npm install
 
@@ -54,11 +52,9 @@ Para configurar o ambiente de desenvolvimento e execução, siga os passos abaix
 
 4. Inicialize os servidores backend e frontend.
   ### Dentro da pasta 'backend'
-  ```bash
   npm run dev
   ### Dentro da pasta 'frontend'
-  ```bash
-   npm run dev
+  npm run dev
 
 
 ## Uso da Aplicação
