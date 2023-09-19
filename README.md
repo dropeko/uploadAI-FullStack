@@ -77,5 +77,5 @@ Ficaria feliz com contribuições para melhorar este projeto. Sinta-se à vontad
 
 ## Equipe de Desenvolvimento
 
-- **Pedro Henrique Coli Andrade**
+- PHCA.dev 💻💡
   - Email: pedrocoli_andrade@hotmail.com
