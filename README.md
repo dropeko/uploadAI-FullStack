@@ -36,13 +36,20 @@ Para configurar o ambiente de desenvolvimento e execução, siga os passos abaix
    cd uploadAI-FullStack
 
 2. Instale as dependências do frontend e backend.
-  **Dentro da pasta 'frontend'**
-    cd frontend
-    npm install
+  2.1 -
+  - Frontend:
+    **Dentro da pasta 'frontend'**
+    ```bash
+      cd frontend
+      npm install
 
-  **Dentro da pasta 'backend'**
-    cd ../backend
-    npm install
+ 2.2 -
+  - Backend:
+    **Dentro da pasta 'backend'**
+    
+    ```bash
+      cd ../backend
+      npm install
 
 3. Configure as variáveis de ambiente necessárias:
   - Crie um arquivo .env na pasta ./backend/ para armazenar suas variáveis de ambiente sensíveis, como chaves de API.
@@ -51,15 +58,11 @@ Para configurar o ambiente de desenvolvimento e execução, siga os passos abaix
     - OPENAI_KEY="Sua API Key da OpenAI"
 
 4. Inicialize os servidores backend e frontend.
-  **Dentro da pasta 'backend'**
-
-  ```bash``
-  npm run dev
+  - **Dentro da pasta 'backend'**
+   - npm run dev
   
-  **Dentro da pasta 'frontend'**
-
-  ```bash
-  npm run dev
+  - **Dentro da pasta 'frontend'**
+   - npm run dev
 
 
 ## Uso da Aplicação
