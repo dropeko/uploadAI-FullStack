@@ -39,18 +39,18 @@ function App() {
 
       <header className="px-6 py-3 flex items-center justify-between border-b">
 
-        <h1 className="text-xl font-bold">Upload.ai</h1>
-      
-        <h1 className="text-xl font-bold flex items-center">
+      <h1 className="text-xl font-bold flex items-center">
           <Computer 
             className="w-4 h-4 mr-2"
           />
           PHCA.dev
         </h1>
 
+        <h1 className="text-xl font-bold">Upload.ai</h1>
+    
         <div className="flex items-center gap-3">
           <span className="text-sm text-muted-foreground">
-            Desenvolvido com 💛 no NLW/Rockeseat por PHCA.dev 
+            Desenvolvido com 💛 por PHCA.dev 
           </span>
           <Separator orientation="vertical" className="h-6" />
           <Button variant="secondary">
